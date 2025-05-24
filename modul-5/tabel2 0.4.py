@@ -270,25 +270,25 @@ def calculate_mechanical_properties(dataframe, L0_mm, A0_m2, material_type=None,
 initial_lengths_vertical_mm = {
     "kertas": 50.0,
     "Mika": 50.0,
-    "Stik": 2.2,
+    "Stik": 22,
     "4_kertas_vertikal": 50.0,
 }
 initial_lengths_horizontal_mm = {
     "kertas": 50.0,
     "Mika": 50.0,
-    "Stik": 1.0,
+    "Stik": 10,
     "4_kertas_vertikal": 50.0,
 }
 initial_widths_horizontal_mm = {
     "kertas": 30.0,
     "Mika": 30.0,
-    "Stik": 2.2,
+    "Stik": 22,
     "4_kertas_vertikal": 30.0,
 }
 initial_widths_vertical_mm = {
     "kertas": 30.0,
     "Mika": 30.0,
-    "Stik": 1.0,
+    "Stik": 10,
     "4_kertas_vertikal": 30.0,
 }
 initial_thickness_horizontal_mm = {
