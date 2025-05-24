@@ -1,0 +1,136 @@
+LengthMode	Position
+StartDate	30/12/1899 00.00.00
+SaveDate	
+Test Type	tensile
+Specimem Num	
+Test Num	1
+File Name	
+Group ID	0
+Operator	Duke
+Shape	Flat
+Mat.Name	mika
+Test Date	14/05/2025
+Mat.Type	mika
+Come From	
+Make Date	2025-04-22
+Type No	
+Test For	Ekfis III
+Time Used	21,56
+Batch No	
+Test Standard	
+Temp        ?	25
+Comment	
+Humi        %	70
+Speed  mm/min	20
+Fmax        N	179,5138
+broke elong rate  %	
+broke elong rate  %	
+Ae          %	
+Ag          %	2,237693
+Agt         %	2,237693
+Area        mm²	240
+At          %	7,012114
+Broke Area  mm²	
+Broke Dia   mm	
+Broke Elong  mm	
+Broke Ext Dia  mm	
+Broke Int Dia  mm	
+Broke Thick  mm	
+Broke Width  mm	
+Control Mode	
+Dia         mm	
+Dir	
+Dynamic Friction  N	
+Dynamic friction coefficient	
+E           MPa	4,166667E+08
+Elastic Rate	1E+09
+Elong Percent  %	7,012114
+Fmax Elong Rate  %	2,237693
+enerage     J	
+Ext.Dia     mm	
+Exten Give Force  %	
+F@elas      N	
+FgiveL100   N	
+F@L1000     N	
+FgiveL200   N	
+FgiveL300   N	
+FgiveL500   N	
+FgiveL800   N	
+Fbreak      N	-0,02061324
+FeH         N	179,5138
+FeL         N	178,8474
+Fgive       N	
+Fgive1      N	
+Fgive2      N	
+Fgive3      N	
+FgiveL      N	
+Fp0.001     N	
+Fp0.002     N	
+Fp0.005     N	
+Fp0.01      N	
+Fp0.02      N	
+Fp0.05      N	
+Fp0.1       N	
+Fp0.2       N	20,24449
+Fp1         N	
+Height      mm	
+hold time   S	
+Int.Dia     mm	
+L@F1        mm	
+L@F2        mm	
+L@F3        mm	
+Len At Fmax  mm	2,237693
+Lbreak      mm	7,012114
+Lc          mm	
+Le          mm	100
+Length      mm	
+Lgive       mm	
+Len Give Force  mm	
+Lmax        mm	7,012114
+Lo          mm	100
+Radial Lo   mm	
+Lo'         mm	
+Load Cell Rate  N	9806
+Loop Count	
+Lu          mm	
+Lu'         mm	
+n val	
+normal force  N	
+Percent@Fgive1  %	
+Percent@Fgive2  %	
+Percent@Fgive3  %	
+Percent@Lbreak  %	7,012114
+PreLoad     N	0
+Q           N/mm	
+r val	
+ReH         MPa	0,7479743
+ReL         MPa	0,7451973
+Result	
+RFbreak     MPa	
+RgiveL      MPa	
+stress @L100  MPa	
+RgiveL1000  MPa	
+stress @L200  MPa	
+stress @L300  MPa	
+stress @L500  MPa	
+stress @L800  MPa	
+Stress Max  MPa	0,7479743
+Rp0.001     MPa	
+Rp0.002     MPa	
+Rp0.005     MPa	
+Rp0.01      MPa	
+Rp0.02      MPa	
+Rp0.05      MPa	
+Rp0.1       MPa	
+Rp0.2       MPa	0,08435205
+Rp1         MPa	0,4452747
+Rr0.2       MPa	
+Rt0.2       MPa	
+Rt1         MPa	
+speed file	
+Static Friction  N	
+Coefficient of static friction	
+Thick       mm	8
+poison ratoi	
+Width       mm	30
+Z           %	
